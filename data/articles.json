@@ -1,0 +1,299 @@
+[
+  {
+    "id": "rbi-001",
+    "title": "RBI Holds Repo Rate Steady at 6.5% Amid Global Uncertainty",
+    "body": "The Reserve Bank of India maintained its key lending rate at 6.5% for the eighth consecutive time, citing persistent global uncertainties and volatile crude oil prices. Governor Shaktikanta Das emphasized the need for vigilance on inflation while supporting economic growth. The MPC voted 4-2 in favor of holding rates, with two members advocating for a 25 basis point cut. Analysts had widely expected the hold, though markets had priced in a slight chance of easing. The RBI also revised its GDP growth forecast for FY26 to 7.0% from 6.8%, reflecting stronger-than-expected domestic consumption and investment activity.",
+    "date": "2026-02-07",
+    "category": "rbi-monetary-policy",
+    "source_url": "https://economictimes.com/rbi-holds-repo-rate-feb-2026",
+    "tags": ["RBI", "repo rate", "monetary policy", "inflation", "GDP"]
+  },
+  {
+    "id": "rbi-002",
+    "title": "RBI Signals Possible Rate Cut in April as Inflation Eases to 4.2%",
+    "body": "With retail inflation falling to 4.2% in January — well within the RBI's comfort zone — markets are now betting heavily on a rate cut in the April policy review. RBI Deputy Governor Michael Patra noted that the disinflationary trend is 'durable and broad-based.' Food inflation, which had been the primary concern, has moderated significantly thanks to a strong rabi harvest. Bond yields fell sharply on the news, with the 10-year benchmark dropping 8 basis points. Banking stocks rallied 2.3% on expectations of cheaper borrowing costs ahead.",
+    "date": "2026-02-15",
+    "category": "rbi-monetary-policy",
+    "source_url": "https://economictimes.com/rbi-rate-cut-signal-feb-2026",
+    "tags": ["RBI", "inflation", "rate cut", "bonds", "banking"]
+  },
+  {
+    "id": "rbi-003",
+    "title": "RBI Introduces Digital Rupee for Cross-Border Trade Settlements",
+    "body": "In a landmark move, the RBI launched a pilot program for using the digital rupee (e₹) in cross-border trade settlements with the UAE and Singapore. The initiative aims to reduce dependency on the US dollar for bilateral trade and lower transaction costs by up to 40%. Initial participants include SBI, HDFC Bank, and ICICI Bank on the Indian side. The pilot will cover trade in petroleum products, textiles, and electronics. Industry experts hailed the move as a significant step toward internationalizing the rupee.",
+    "date": "2026-02-22",
+    "category": "rbi-monetary-policy",
+    "source_url": "https://economictimes.com/rbi-digital-rupee-cross-border",
+    "tags": ["RBI", "digital rupee", "CBDC", "cross-border", "trade"]
+  },
+  {
+    "id": "rbi-004",
+    "title": "Banks Rush to Cut Lending Rates After RBI's Dovish Stance",
+    "body": "Following the RBI's strong hints at an upcoming rate cut, several major banks have preemptively reduced their marginal cost of funds-based lending rates (MCLR). SBI cut its one-year MCLR by 10 basis points to 8.45%, while HDFC Bank and ICICI Bank followed with similar reductions. Home loan rates are now at their lowest in 18 months, boosting demand in the real estate sector. Developers reported a 15% increase in site visits in the week following the announcements.",
+    "date": "2026-03-01",
+    "category": "rbi-monetary-policy",
+    "source_url": "https://economictimes.com/banks-cut-lending-rates-march-2026",
+    "tags": ["RBI", "MCLR", "home loans", "SBI", "HDFC Bank", "real estate"]
+  },
+  {
+    "id": "rbi-005",
+    "title": "UPI Transactions Hit 20 Billion Per Month, RBI Plans UPI Tax Collection",
+    "body": "UPI transactions reached a record 20 billion per month in February 2026, processing ₹22 lakh crore in value. The RBI announced plans to enable direct tax payments via UPI, starting with advance tax and self-assessment tax. The central bank also approved UPI Lite X for offline transactions up to ₹1,000, targeting rural areas with poor internet connectivity. International UPI adoption expanded to 12 countries including France, Japan, and Saudi Arabia.",
+    "date": "2026-03-05",
+    "category": "rbi-monetary-policy",
+    "source_url": "https://economictimes.com/upi-20-billion-transactions",
+    "tags": ["RBI", "UPI", "digital payments", "NPCI", "tax"]
+  },
+  {
+    "id": "budget-001",
+    "title": "Union Budget 2026: FM Announces Major Income Tax Relief for Middle Class",
+    "body": "Finance Minister Nirmala Sitharaman delivered significant income tax relief in the Union Budget 2026-27, raising the basic exemption limit under the new tax regime to ₹5 lakh and restructuring slabs to benefit those earning up to ₹15 lakh annually. The standard deduction was increased from ₹50,000 to ₹75,000. The changes are expected to put ₹25,000 to ₹50,000 back in the pockets of salaried taxpayers. The government estimates a revenue forgone of ₹45,000 crore but expects the consumption boost to partially offset the loss.",
+    "date": "2026-02-01",
+    "category": "union-budget-2026",
+    "source_url": "https://economictimes.com/budget-2026-income-tax-relief",
+    "tags": ["Budget", "income tax", "middle class", "FM Sitharaman", "tax slabs"]
+  },
+  {
+    "id": "budget-002",
+    "title": "Budget 2026: ₹2.5 Lakh Crore Capex Push for Infrastructure",
+    "body": "The government allocated ₹2.5 lakh crore for capital expenditure in FY27, a 15% increase over the revised estimates for FY26. Key focus areas include expressways, railways modernization, urban metro expansion, and port development. The PM Gati Shakti program received a dedicated ₹50,000 crore allocation. The FM emphasized that infrastructure spending would be the primary engine of job creation, targeting 80 lakh new jobs in construction and related sectors.",
+    "date": "2026-02-01",
+    "category": "union-budget-2026",
+    "source_url": "https://economictimes.com/budget-2026-capex-infrastructure",
+    "tags": ["Budget", "infrastructure", "capex", "railways", "Gati Shakti"]
+  },
+  {
+    "id": "budget-003",
+    "title": "Budget 2026: Green Energy Allocation Doubles to ₹80,000 Crore",
+    "body": "The Union Budget doubled the allocation for green energy to ₹80,000 crore, with a major push toward solar manufacturing, green hydrogen, and battery storage. A new Production Linked Incentive scheme worth ₹20,000 crore was announced for domestic battery cell manufacturing. The government targets 50 GW of new renewable capacity addition in FY27. EV charging infrastructure received ₹5,000 crore for deploying 50,000 new charging stations across tier-2 cities.",
+    "date": "2026-02-01",
+    "category": "union-budget-2026",
+    "source_url": "https://economictimes.com/budget-2026-green-energy",
+    "tags": ["Budget", "green energy", "solar", "PLI", "EV", "battery"]
+  },
+  {
+    "id": "budget-004",
+    "title": "Markets React: Sensex Surges 800 Points Post Budget on Tax Relief Rally",
+    "body": "Indian equity markets reacted euphemically to the Union Budget, with the Sensex surging 800 points and the Nifty crossing 23,500. Auto, FMCG, and real estate stocks led the gains on expectations of consumption boost from tax relief. Banking stocks also rallied on infrastructure spending optimism. Foreign portfolio investors turned net buyers, purchasing ₹4,200 crore worth of equities on budget day. However, some analysts cautioned that the fiscal deficit target of 4.5% of GDP leaves limited room for additional stimulus.",
+    "date": "2026-02-01",
+    "category": "union-budget-2026",
+    "source_url": "https://economictimes.com/budget-2026-market-reaction",
+    "tags": ["Budget", "Sensex", "Nifty", "markets", "FPI", "fiscal deficit"]
+  },
+  {
+    "id": "budget-005",
+    "title": "Budget Impact: Mutual Fund Industry Cheers LTCG Tax Reduction",
+    "body": "The mutual fund industry celebrated the Budget's reduction of long-term capital gains (LTCG) tax on equity mutual funds from 12.5% to 10%, with the exemption limit raised to ₹2 lakh annually. The changes are expected to drive a ₹50,000 crore increase in annual mutual fund inflows. AMFI Chairman A Balasubramanian called it a 'landmark decision for retail investors.' SIP registrations, already at a record 8 crore per month, are expected to surge further.",
+    "date": "2026-02-02",
+    "category": "union-budget-2026",
+    "source_url": "https://economictimes.com/budget-2026-mutual-fund-ltcg",
+    "tags": ["Budget", "mutual funds", "LTCG", "SIP", "AMFI"]
+  },
+  {
+    "id": "budget-006",
+    "title": "Budget 2026: Semiconductor PLI Scheme Gets Additional ₹30,000 Crore",
+    "body": "FM Sitharaman announced an additional ₹30,000 crore for the semiconductor PLI scheme, taking the total allocation to ₹76,000 crore. The expanded scheme now covers chip design, OSAT and advanced packaging alongside fabrication. Three new fab projects by Tata Electronics in Dholera, CG Power in Sanand, and ISMC in Mysore received formal approval. The government targets India producing 10% of the world's semiconductor packaging by 2030.",
+    "date": "2026-02-01",
+    "category": "union-budget-2026",
+    "source_url": "https://economictimes.com/budget-2026-semiconductor-pli",
+    "tags": ["Budget", "semiconductor", "PLI", "Tata Electronics", "chip manufacturing"]
+  },
+  {
+    "id": "ev-001",
+    "title": "Tata Motors Launches ₹8 Lakh Electric Car, Aims to Disrupt Market",
+    "body": "Tata Motors unveiled the Tata Bolt EV, India's most affordable electric car priced at ₹7.99 lakh (ex-showroom). The vehicle offers a 250 km range on a single charge with fast-charging capability that adds 80% battery in 45 minutes. Built on Tata's new Gen-3 EV platform, the Bolt EV targets first-time car buyers looking to go electric. Tata Motors CEO Shailesh Chandra said the company aims to sell 1 lakh units in the first year.",
+    "date": "2026-01-15",
+    "category": "ev-revolution-india",
+    "source_url": "https://economictimes.com/tata-bolt-ev-launch",
+    "tags": ["EV", "Tata Motors", "electric car", "affordable EV", "auto"]
+  },
+  {
+    "id": "ev-002",
+    "title": "India's EV Charging Network Crosses 100,000 Stations Milestone",
+    "body": "India's electric vehicle charging infrastructure crossed the 100,000 station mark, a 3x increase from 2024. The growth was driven by government subsidies, private investment from companies like Tata Power, Adani Green, and ChargeZone, and favorable policies in states like Maharashtra, Karnataka, and Delhi. However, the distribution remains heavily urban — 70% of stations are in the top 20 cities.",
+    "date": "2026-01-28",
+    "category": "ev-revolution-india",
+    "source_url": "https://economictimes.com/ev-charging-100k-milestone",
+    "tags": ["EV", "charging infrastructure", "Tata Power", "Adani", "ChargeZone"]
+  },
+  {
+    "id": "ev-003",
+    "title": "Maruti Suzuki Enters EV Race with eVitara, Targets 2 Lakh Annual Sales",
+    "body": "Maruti Suzuki officially entered the electric vehicle segment with the launch of the eVitara at ₹14.49 lakh. The SUV-style EV offers a 350 km range and is built in partnership with Toyota at the Gujarat plant. Maruti Chairman RC Bhargava said the company's vast service network of 4,800+ workshops gives it a competitive edge over EV-only players. The company targets annual sales of 2 lakh EVs by FY28.",
+    "date": "2026-02-20",
+    "category": "ev-revolution-india",
+    "source_url": "https://economictimes.com/maruti-evitara-launch",
+    "tags": ["EV", "Maruti Suzuki", "eVitara", "Toyota", "mass market"]
+  },
+  {
+    "id": "ev-004",
+    "title": "Government Extends FAME-III Subsidy Scheme with ₹12,000 Crore Outlay",
+    "body": "The government approved the FAME-III scheme with an outlay of ₹12,000 crore over two years. Key changes include higher subsidies for electric two-wheelers at ₹10,000 per kWh, inclusion of electric tractors for the first time, and mandatory domestic battery content requirements of 60%. The scheme is expected to support the sale of 50 lakh electric two-wheelers and 5 lakh electric four-wheelers by 2028.",
+    "date": "2026-03-05",
+    "category": "ev-revolution-india",
+    "source_url": "https://economictimes.com/fame-3-scheme-approved",
+    "tags": ["EV", "FAME-III", "subsidy", "government", "two-wheeler"]
+  },
+  {
+    "id": "ev-005",
+    "title": "BYD vs Tesla: The Battle for India's Premium EV Market Heats Up",
+    "body": "Chinese EV giant BYD and Tesla are intensifying their battle for India's premium electric vehicle segment. BYD launched the Seal sedan at ₹41 lakh, undercutting Tesla's Model 3 by ₹8 lakh. Tesla responded by announcing a ₹5 lakh price cut on the Model 3, bringing it to ₹44 lakh. BYD has established a manufacturing presence in Hyderabad, while Tesla's Gujarat factory is expected to begin production in Q4 2026.",
+    "date": "2026-03-15",
+    "category": "ev-revolution-india",
+    "source_url": "https://economictimes.com/byd-vs-tesla-india",
+    "tags": ["EV", "BYD", "Tesla", "premium segment", "data privacy"]
+  },
+  {
+    "id": "ev-006",
+    "title": "India's EV Sales Cross 2 Million Units in FY26, 3x Growth in Two Years",
+    "body": "Electric vehicle sales in India surpassed 2 million units in FY26, representing a threefold increase from FY24. Electric two-wheelers dominated with 1.5 million units, led by Ola Electric, TVS iQube, and Ather Energy. Electric car sales reached 200,000 units, with Tata Motors commanding a 65% market share. The EV penetration rate reached 6% of total vehicle sales, up from 2% in FY24.",
+    "date": "2026-03-20",
+    "category": "ev-revolution-india",
+    "source_url": "https://economictimes.com/india-ev-sales-2-million",
+    "tags": ["EV", "sales", "Tata Motors", "Ola Electric", "market share"]
+  },
+  {
+    "id": "ev-007",
+    "title": "Adani Group Enters EV Battery Manufacturing with $3B Gujarat Gigafactory",
+    "body": "Adani Group announced a $3 billion investment in a lithium-ion battery gigafactory in Mundra, Gujarat, with an initial capacity of 20 GWh scalable to 50 GWh. The facility will supply battery cells to Indian EV manufacturers, reducing dependence on Chinese imports which currently account for 80% of India's battery supply. Commercial production will begin by Q2 2027. The project will create 8,000 direct jobs.",
+    "date": "2026-03-08",
+    "category": "ev-revolution-india",
+    "source_url": "https://economictimes.com/adani-ev-battery-gigafactory",
+    "tags": ["EV", "Adani", "battery", "gigafactory", "manufacturing"]
+  },
+  {
+    "id": "startup-001",
+    "title": "Zepto Raises $500M at $5 Billion Valuation, Plans IPO in 2027",
+    "body": "Quick-commerce startup Zepto raised $500 million in its Series G round, valuing the company at $5 billion. The round was led by StepStone Group with participation from existing investors. CEO Aadit Palicha said the funds will be used to expand to 50 new cities and build 500 additional dark stores. Zepto has turned EBITDA positive in its top 10 cities, with an average delivery time of 8.5 minutes.",
+    "date": "2026-01-20",
+    "category": "startup-funding",
+    "source_url": "https://economictimes.com/zepto-series-g-funding",
+    "tags": ["startup", "Zepto", "quick commerce", "funding", "IPO"]
+  },
+  {
+    "id": "startup-002",
+    "title": "AI Startup Krutrim Becomes India's Fastest Unicorn at 18 Months",
+    "body": "Krutrim, the AI startup founded by Ola's Bhavish Aggarwal, reached unicorn status in just 18 months — the fastest in Indian startup history. The company raised $200 million at a $1.5 billion valuation from Matrix Partners and SoftBank. Krutrim's flagship product is a multilingual AI model that supports 22 Indian languages, competing directly with OpenAI and Google in the Indian market.",
+    "date": "2026-02-18",
+    "category": "startup-funding",
+    "source_url": "https://economictimes.com/krutrim-unicorn-funding",
+    "tags": ["startup", "Krutrim", "AI", "Bhavish Aggarwal", "unicorn", "SoftBank"]
+  },
+  {
+    "id": "startup-003",
+    "title": "Indian Startups Raised $18 Billion in 2025, AI and Climate Lead Sectors",
+    "body": "Indian startups raised a total of $18 billion in 2025, a 35% increase from 2024's $13.3 billion, signaling the end of the funding winter. AI/ML startups led the charge with $4.2 billion across 280 deals, followed by climate-tech ($2.8 billion) and fintech ($2.5 billion). Bangalore remained the top startup hub with 40% of total funding, followed by Delhi-NCR (28%) and Mumbai (15%).",
+    "date": "2026-01-10",
+    "category": "startup-funding",
+    "source_url": "https://economictimes.com/startup-funding-2025-review",
+    "tags": ["startup", "funding", "AI", "climate tech", "unicorn", "IPO"]
+  },
+  {
+    "id": "startup-004",
+    "title": "Pine Labs-Razorpay Merger Creates India's Largest Fintech Payments Company",
+    "body": "Pine Labs and Razorpay announced a merger to create India's largest fintech payments company with a combined valuation of $12 billion. The merged entity will process transactions worth $180 billion annually, covering online payments, POS terminals, and lending. The deal, structured as an all-stock merger, will see Razorpay CEO Harshil Mathur lead the combined company.",
+    "date": "2026-02-28",
+    "category": "startup-funding",
+    "source_url": "https://economictimes.com/pine-labs-razorpay-merger",
+    "tags": ["startup", "fintech", "Pine Labs", "Razorpay", "merger", "payments"]
+  },
+  {
+    "id": "startup-005",
+    "title": "Meesho Turns Profitable, Files for ₹5,000 Crore IPO",
+    "body": "Social commerce platform Meesho reported its first annual profit of ₹150 crore in FY26, completing a remarkable turnaround from losses of ₹1,600 crore two years ago. The company simultaneously filed for a ₹5,000 crore IPO. Meesho serves 150 million transacting users, primarily in tier-2 and tier-3 cities, with a focus on affordable fashion and home goods.",
+    "date": "2026-03-20",
+    "category": "startup-funding",
+    "source_url": "https://economictimes.com/meesho-profitable-ipo",
+    "tags": ["startup", "Meesho", "IPO", "social commerce", "profitability"]
+  },
+  {
+    "id": "startup-006",
+    "title": "Flipkart Minutes Challenges Zepto, Blinkit with 10-Minute Grocery Delivery",
+    "body": "Flipkart officially launched 'Flipkart Minutes,' its quick-commerce service, in 12 cities with a promise of delivery within 10 minutes. Backed by Walmart's deep pockets, the service operates 400 dark stores and undercuts rivals on pricing by 5-8%. CEO Kalyan Krishnamurthy said Flipkart Minutes leverages the company's existing logistics network and supplier relationships.",
+    "date": "2026-03-18",
+    "category": "startup-funding",
+    "source_url": "https://economictimes.com/flipkart-minutes-launch",
+    "tags": ["startup", "Flipkart", "quick commerce", "Walmart", "delivery"]
+  },
+  {
+    "id": "startup-007",
+    "title": "Ather Energy Files DRHP for ₹4,500 Crore IPO",
+    "body": "Electric two-wheeler maker Ather Energy filed its Draft Red Herring Prospectus for a ₹4,500 crore IPO. Ather reported revenue of ₹3,200 crore in FY26 with losses narrowing to ₹380 crore from ₹600 crore in FY25. The company holds a 12% market share in electric two-wheelers and operates a network of 200+ experience centers. IPO proceeds will fund its new manufacturing facility in Hosur.",
+    "date": "2026-03-12",
+    "category": "startup-funding",
+    "source_url": "https://economictimes.com/ather-energy-ipo-drhp",
+    "tags": ["startup", "Ather Energy", "IPO", "EV", "Hero MotoCorp"]
+  },
+  {
+    "id": "ai-001",
+    "title": "India Launches ₹15,000 Crore National AI Mission",
+    "body": "The government launched the India AI Mission with a ₹15,000 crore budget over five years, aimed at building sovereign AI infrastructure. The mission includes setting up 10,000 GPU clusters across government data centers, creating open-source Indian language AI models, and establishing an AI Safety Institute. IT Minister Ashwini Vaishnaw said India aims to become a 'global AI hub' leveraging its talent pool and data diversity.",
+    "date": "2026-01-05",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/india-ai-mission-launch",
+    "tags": ["AI", "government", "India AI Mission", "GPU", "sovereign AI"]
+  },
+  {
+    "id": "ai-002",
+    "title": "TCS, Infosys Report Record AI Deal Wins Worth $5 Billion Combined",
+    "body": "TCS and Infosys reported combined AI-related deal wins worth $5 billion in Q3 FY26, marking the highest quarterly tally for Indian IT services. TCS secured a $1.2 billion AI transformation deal with a major US bank, while Infosys won $800 million in generative AI consulting engagements. Both companies have aggressively upskilled their workforce — TCS has 150,000 AI-trained employees while Infosys has 120,000.",
+    "date": "2026-01-22",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/tcs-infosys-ai-deals",
+    "tags": ["AI", "TCS", "Infosys", "IT services", "deal wins"]
+  },
+  {
+    "id": "ai-003",
+    "title": "Reliance Launches JioAI: India's Answer to ChatGPT",
+    "body": "Reliance Industries launched JioAI, a multilingual AI assistant supporting 11 Indian languages, available free to all Jio users. Built on the Krutrim AI model with additional training on Jio's massive user data, JioAI can handle voice queries in native languages, making it accessible to non-English speaking Indians. Mukesh Ambani said JioAI aims to bring AI benefits to India's next 500 million internet users.",
+    "date": "2026-02-12",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/reliance-jioai-launch",
+    "tags": ["AI", "Reliance", "JioAI", "multilingual", "Mukesh Ambani"]
+  },
+  {
+    "id": "ai-004",
+    "title": "Sarvam AI Launches India's First Open-Source Hindi LLM",
+    "body": "Sarvam AI released 'Sarvam-1,' India's first fully open-source large language model optimized for Hindi and 9 other Indian languages. The 7-billion parameter model outperforms GPT-3.5 on Indic language benchmarks including translation, summarization, and question-answering. Available on Hugging Face under Apache 2.0 license, the model has been downloaded 100,000 times in its first week.",
+    "date": "2026-03-18",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/sarvam-ai-hindi-llm",
+    "tags": ["AI", "Sarvam AI", "open source", "Hindi", "LLM", "Indic languages"]
+  },
+  {
+    "id": "ai-005",
+    "title": "Wipro Cuts 5,000 Jobs as AI Automates Testing and Support Roles",
+    "body": "Wipro announced a reduction of 5,000 positions, primarily in software testing and L1 support roles, as AI-powered automation tools take over repetitive tasks. The company simultaneously announced 3,000 new AI specialist hires at higher salary bands. CEO Srini Pallia called it a 'workforce transformation, not a reduction.' NASSCOM estimated that AI will displace 100,000 traditional IT jobs in India by 2027 while creating 250,000 new AI-related roles.",
+    "date": "2026-02-25",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/wipro-ai-job-cuts",
+    "tags": ["AI", "Wipro", "jobs", "automation", "NASSCOM"]
+  },
+  {
+    "id": "ai-006",
+    "title": "ChatGPT Crosses 50 Million Users in India, Becomes Largest Market After US",
+    "body": "OpenAI reported that ChatGPT has crossed 50 million monthly active users in India, making it the platform's largest market after the United States. Usage is highest among students (35%), followed by IT professionals (25%) and small business owners (18%). OpenAI launched a Hindi-optimized version and reduced ChatGPT Plus pricing in India to ₹1,650/month.",
+    "date": "2026-03-14",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/chatgpt-50-million-india",
+    "tags": ["AI", "ChatGPT", "OpenAI", "India users", "education"]
+  },
+  {
+    "id": "ai-007",
+    "title": "Bangalore Becomes World's Third-Largest AI Startup Hub",
+    "body": "A report by CB Insights ranked Bangalore as the world's third-largest AI startup hub, behind San Francisco and Beijing, with 450+ AI startups and $3.8 billion in cumulative funding. Key players include Krutrim, Sarvam AI, Karya, and Fractal Analytics. The city's AI ecosystem benefits from talent from IISc, IIT Bangalore, and the large engineering workforce of IT giants.",
+    "date": "2026-03-22",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/bangalore-ai-hub-ranking",
+    "tags": ["AI", "Bangalore", "startups", "CB Insights", "venture capital"]
+  },
+  {
+    "id": "ai-008",
+    "title": "Supreme Court Orders AI Regulation Framework Within 6 Months",
+    "body": "The Supreme Court of India directed the government to establish a comprehensive AI regulation framework within six months, following a PIL about deepfake misuse in elections. Key areas to be addressed include deepfakes, AI in hiring decisions, algorithmic bias, and autonomous weapons. Industry bodies NASSCOM and CII advocated for 'light-touch regulation' to avoid stifling innovation.",
+    "date": "2026-03-15",
+    "category": "ai-india",
+    "source_url": "https://economictimes.com/supreme-court-ai-regulation",
+    "tags": ["AI", "regulation", "Supreme Court", "deepfakes", "governance"]
+  }
+]

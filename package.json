@@ -1,24 +1,30 @@
 {
-  "name": "vernacular-video-studio",
+  "name": "lingocast",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "remotion:studio": "npx remotion studio remotion/index.ts",
+    "remotion:render": "npx remotion render remotion/index.ts NewsVideo"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",
     "@google/generative-ai": "^0.24.1",
     "@remotion/cli": "^4.0.438",
+    "@remotion/lottie": "^4.0.438",
     "@remotion/player": "^4.0.438",
     "@remotion/renderer": "^4.0.438",
     "@supabase/supabase-js": "^2.100.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
+    "groq-sdk": "^1.1.1",
+    "lottie-web": "^5.13.0",
     "lucide-react": "^1.0.1",
+    "msedge-tts": "^2.0.4",
     "next": "16.2.1",
     "react": "19.2.4",
     "react-dom": "19.2.4",
