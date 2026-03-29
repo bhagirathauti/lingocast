@@ -2,8 +2,6 @@ import { NextRequest } from "next/server";
 import path from "path";
 import os from "os";
 import fs from "fs";
-import { bundle } from "@remotion/bundler";
-import { renderMedia, selectComposition } from "@remotion/renderer";
 
 let bundleLocation: string | null = null;
 
@@ -11,6 +9,7 @@ async function getBundleLocation(): Promise<string> {
   if (bundleLocation && fs.existsSync(bundleLocation)) {
     return bundleLocation;
   }
+  const { bundle } = await import("@remotion/bundler");
   const entryPoint = path.resolve(process.cwd(), "remotion/index.ts");
   bundleLocation = await bundle({
     entryPoint,
@@ -48,6 +47,7 @@ export async function POST(req: NextRequest) {
           audioUrls: [],
         };
 
+        const { renderMedia, selectComposition } = await import("@remotion/renderer");
         const composition = await selectComposition({
           serveUrl,
           id: "NewsVideo",

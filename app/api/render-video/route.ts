@@ -2,8 +2,6 @@ import { NextRequest } from "next/server";
 import path from "path";
 import os from "os";
 import fs from "fs";
-import { bundle } from "@remotion/bundler";
-import { renderMedia, selectComposition } from "@remotion/renderer";
 import type { NewsVideoProps } from "@/remotion/types";
 
 // Cache the bundle location across requests
@@ -14,6 +12,7 @@ async function getBundleLocation(): Promise<string> {
     return bundleLocation;
   }
 
+  const { bundle } = await import("@remotion/bundler");
   const entryPoint = path.resolve(process.cwd(), "remotion/index.ts");
 
   bundleLocation = await bundle({
@@ -58,6 +57,7 @@ export async function POST(req: NextRequest) {
           audioUrls: audioUrls || [],
         };
 
+        const { renderMedia, selectComposition } = await import("@remotion/renderer");
         const composition = await selectComposition({
           serveUrl,
           id: "NewsVideo",
