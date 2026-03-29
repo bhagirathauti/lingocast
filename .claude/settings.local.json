@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ping -n 1 api.groq.com)",
+      "Bash(find /d/news-project/vernacular-video-studio/lib -name *.ts -o -name *.tsx)",
+      "Bash(npx next:*)",
+      "Bash(npm install:*)"
+    ]
+  }
+}

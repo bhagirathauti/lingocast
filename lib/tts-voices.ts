@@ -2,9 +2,14 @@
 export const TTS_VOICES: Record<string, string> = {
   en: "en-IN-NeerjaNeural",
   hi: "hi-IN-SwaraNeural",
+  bn: "bn-IN-TanishaaNeural",
+  gu: "gu-IN-DhwaniNeural",
+  kn: "kn-IN-SapnaNeural",
+  ml: "ml-IN-SobhanaNeural",
+  mr: "mr-IN-AarohiNeural",
   ta: "ta-IN-PallaviNeural",
   te: "te-IN-ShrutiNeural",
-  bn: "bn-IN-TanishaaNeural",
+  ur: "ur-IN-GulNeural",
 };
 
 export function getVoiceForLanguage(languageCode: string): string {
